@@ -1,13 +1,5 @@
-# SIMS Claude Engine Operational Guide v1.0
+# SIMS Claude Engine RC v1.0
 
-This package adds operational guidance for using SIMS AI Exchange v1.0 inside the Claude Project.
+This package prepares the Claude Engine repository for AI Exchange v1.0 Release Candidate validation.
 
-## Install
-
-Copy the contents of this package into the `SIMS-Claude-Engine` repository.
-
-Recommended commit message:
-
-```text
-Add Claude AI Exchange operational guide v1.0
-```
+Apply this package to the SIMS-Claude-Engine repository root.
