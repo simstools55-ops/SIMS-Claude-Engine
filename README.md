@@ -1,11 +1,11 @@
-# SIMS Claude Engine v1.0 Exchange Upgrade
+# SIMS Claude Engine Exchange MVP v1.0
 
-This package upgrades SIMS Claude Engine to follow AI Exchange v1.0.
+This package adds the Claude-side MVP processor for SIMS AI Exchange requests.
 
-Target repository: `SIMS-Claude-Engine`
+Apply to: `SIMS-Claude-Engine`
 
-Commit message:
+## Commit message
 
 ```text
-Upgrade Claude Engine for AI Exchange v1.0
+Add Claude Exchange MVP processor
 ```
