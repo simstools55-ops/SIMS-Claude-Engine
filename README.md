@@ -1,20 +1,13 @@
-# SIMS Claude Engine Result Templates v1.0
+# SIMS Claude Engine Operational Guide v1.0
 
-Claude Engine側に追加する、AI Exchange v1.0対応の返却テンプレートです。
+This package adds operational guidance for using SIMS AI Exchange v1.0 inside the Claude Project.
 
-## 目的
+## Install
 
-- SIMSから受け取ったImprovement_Request.mdを処理する
-- SEO改善結果を`Improvement_Result.md`として返す
-- H1、titleタグ、meta description、スマホ向けdescriptionを必ず出力する
-- 初心者向けに、用語説明・反映手順・チェックリストも返す
+Copy the contents of this package into the `SIMS-Claude-Engine` repository.
 
-## 適用先
-
-`SIMS-Claude-Engine`
-
-## コミットメッセージ
+Recommended commit message:
 
 ```text
-Add AI Exchange result templates v1.0
+Add Claude AI Exchange operational guide v1.0
 ```
