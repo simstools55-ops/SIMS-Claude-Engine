@@ -1,6 +1,17 @@
-# SIMS Claude Engine v1.0 Stable
+# SIMS Claude Engine v1.0 Production Rollout for Claude
 
-Claude Engineリポジトリへ適用する安定版パッケージです。
+This package finalizes Claude Engine v1.0 for production operation with SIMS AI Exchange v1.0.
 
-## Compatibility
-- SIMS AI Exchange v1.0
+## Apply to
+
+Repository:
+
+```text
+SIMS-Claude-Engine
+```
+
+## Commit message
+
+```text
+Finalize Claude Engine v1.0 production rollout
+```
