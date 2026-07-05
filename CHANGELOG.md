@@ -1,7 +1,9 @@
 # Changelog
 
-## v1.0
+## v1.0.0
 
-- Added Claude Engine Interface Specification v1.0.
-- Added AI Exchange v1.0 execution prompt.
-- Declared compatibility with SIMS AI Exchange Standard v1.0.
+- Initial repository foundation.
+- Added Claude Project Instructions.
+- Added AI Exchange templates.
+- Added engine separation policy.
+- Added setup and usage documents.
