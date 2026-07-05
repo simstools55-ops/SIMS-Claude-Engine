@@ -1,11 +1,13 @@
-# SIMS Claude Engine v1.0 Feedback Loop
+# SIMS Claude Engine v1.1 Backlog
 
-This package defines how Claude Engine should use SIMS measurement data to improve future article recommendations.
+This package defines the next improvement backlog for SIMS Claude Engine after AI Exchange v1.0 rollout.
 
-## Purpose
+## Apply to
 
-Close the loop between improvement execution and SEO performance measurement.
+`SIMS-Claude-Engine` repository root.
 
-## Repository
+## Commit message
 
-Apply this package to SIMS-Claude-Engine.
+```text
+Add Claude Engine v1.1 backlog
+```
