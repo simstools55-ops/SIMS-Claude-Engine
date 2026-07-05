@@ -1,7 +1,7 @@
 # Changelog
 
-## v1.0
+## v1.0.0
 
-- Added Exchange Processor instructions
-- Added Improvement Request Handler prompt
-- Added Exchange Processor specification
+- Added mandatory Improvement_Result.md output template.
+- Added SEO metadata output standard.
+- Added beginner explanation and WordPress reflection checklist rules.
