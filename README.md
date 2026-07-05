@@ -1,13 +1,13 @@
-# SIMS Claude Engine v1.1 Backlog
+# SIMS Claude Engine SEO Interface v1.0
 
-This package defines the next improvement backlog for SIMS Claude Engine after AI Exchange v1.0 rollout.
+This package adds Claude Engine compatibility documentation for SIMS SEO Data Model v1.0.
 
-## Apply to
+Apply to:
+- Repository: SIMS-Claude-Engine
+- Destination: repository root
 
-`SIMS-Claude-Engine` repository root.
-
-## Commit message
+Commit message:
 
 ```text
-Add Claude Engine v1.1 backlog
+Add SEO Data Model v1.0 interface
 ```
