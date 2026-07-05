@@ -1,10 +1,9 @@
-# SIMS Claude Engine MVP UAT v1.0
+# Claude Engine MVP RC v1.0
 
-This package adds UAT materials for validating Claude Engine compatibility with AI Exchange MVP requests.
+This package prepares SIMS-Claude-Engine for the first AI Exchange MVP release candidate.
 
-## Apply to
-SIMS-Claude-Engine repository root.
+## Purpose
 
-## Included
-- claude/uat/MVP_REQUEST_PROCESSING_TEST.md
-- docs/mvp-uat-guide.md
+- Freeze the Claude-side response format.
+- Validate that Claude can process Improvement_Request.md.
+- Return Improvement_Result.md with SEO metadata, beginner explanation, and checklist.
