@@ -1,5 +1,6 @@
-# SIMS Claude Engine RC v1.0
+# SIMS Claude Engine v1.0 Stable
 
-This package prepares the Claude Engine repository for AI Exchange v1.0 Release Candidate validation.
+Claude Engineリポジトリへ適用する安定版パッケージです。
 
-Apply this package to the SIMS-Claude-Engine repository root.
+## Compatibility
+- SIMS AI Exchange v1.0
