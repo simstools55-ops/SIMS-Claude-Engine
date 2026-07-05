@@ -1,11 +1,11 @@
-# SIMS Claude Engine Interface Specification v1.0
+# SIMS Claude Engine v1.0 Exchange Upgrade
 
-This package defines how SIMS-Claude-Engine must consume SIMS AI Exchange v1.0 requests and produce compliant results.
+This package upgrades SIMS Claude Engine to follow AI Exchange v1.0.
 
-Apply to the SIMS-Claude-Engine repository.
+Target repository: `SIMS-Claude-Engine`
 
 Commit message:
 
 ```text
-Add Claude Engine Interface Specification v1.0
+Upgrade Claude Engine for AI Exchange v1.0
 ```
