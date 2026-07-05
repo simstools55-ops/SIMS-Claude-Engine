@@ -1,13 +1,11 @@
-# SIMS Claude Engine SEO Interface v1.0
+# SIMS Claude Engine Interface Specification v1.0
 
-This package adds Claude Engine compatibility documentation for SIMS SEO Data Model v1.0.
+This package defines how SIMS-Claude-Engine must consume SIMS AI Exchange v1.0 requests and produce compliant results.
 
-Apply to:
-- Repository: SIMS-Claude-Engine
-- Destination: repository root
+Apply to the SIMS-Claude-Engine repository.
 
 Commit message:
 
 ```text
-Add SEO Data Model v1.0 interface
+Add Claude Engine Interface Specification v1.0
 ```
