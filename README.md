@@ -1,17 +1,11 @@
-# SIMS Claude Engine v1.0 Production Rollout for Claude
+# SIMS Claude Engine v1.0 Feedback Loop
 
-This package finalizes Claude Engine v1.0 for production operation with SIMS AI Exchange v1.0.
+This package defines how Claude Engine should use SIMS measurement data to improve future article recommendations.
 
-## Apply to
+## Purpose
 
-Repository:
+Close the loop between improvement execution and SEO performance measurement.
 
-```text
-SIMS-Claude-Engine
-```
+## Repository
 
-## Commit message
-
-```text
-Finalize Claude Engine v1.0 production rollout
-```
+Apply this package to SIMS-Claude-Engine.
