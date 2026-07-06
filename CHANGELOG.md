@@ -1,8 +1,7 @@
 # Changelog
 
-## v2.0.6
+## v2.0.0
 
-- Added Engine05 Content Rewrite audit.
-- Defined AI Exchange input/output alignment.
-- Added rewrite quality gate.
-- Added beginner-friendly result explanation requirements.
+- Added Claude-side SEO Data Model v2.0 interface.
+- Added expected input and output sections.
+- Added metadata and beginner explanation requirements.
