@@ -1,17 +1,17 @@
-# SIMS Claude Engine v2.0.3 - Engine02 Search Console Audit
+# SIMS Claude Engine v2.0.4 - Engine03 Search Intent Audit
 
-This package advances Claude Engine v2 development from Engine01 Project Intake to Engine02 Search Console Analysis.
+This package advances Claude Engine v2 development from Engine02 Search Console Analysis to Engine03 Search Intent Analysis.
 
-Engine02 is preserved as the **Search Console Analysis Engine** from the operational prototype. Its responsibility is to analyze the Search Console snapshot prepared by Engine01 and decide improvement priority and direction. It must not perform search intent analysis, SERP analysis, rewriting, metadata generation, FAQ creation, or internal link recommendations.
+Engine03 is preserved from the operational prototype as the **Search Intent / User Needs Analysis Engine**. Its responsibility is to convert query data and Google evaluation signals into structured user intent. It must not rewrite the article, generate metadata, propose internal links, or create publishing output.
 
 ## What changed
 
-- Preserved the proven prototype responsibility of Engine02.
-- Updated input from manual top 10 queries to SIMS AI Exchange top query set, recommended max 20 rows.
-- Defined query scoring using impressions, clicks, CTR, position, and improvement opportunity.
-- Preserved the three improvement judgments from the prototype.
-- Added AI Exchange output section for downstream engines.
-- Added beginner-safe rules so Engine02 explains what the numbers mean without generating article changes.
+- Preserved the proven prototype principle: analyze the searcher, not only the keyword.
+- Updated input to receive `Improvement_Request.md`, Engine01 intake output, and Engine02 Search Console analysis.
+- Added AI Exchange v1.0 compatibility.
+- Standardized intent groups: Know, Do, Compare, Troubleshooting, Transactional, Local, Navigational.
+- Added beginner-friendly explanation requirements.
+- Added explicit handoff to Engine04 SEO Audit.
 
 ## Repository target
 
@@ -20,5 +20,5 @@ Upload this package into the `SIMS-Claude-Engine` repository.
 Recommended commit message:
 
 ```text
-Add Engine02 Search Console audit and AI Exchange refactor
+Add Engine03 Search Intent audit and AI Exchange refactor
 ```
