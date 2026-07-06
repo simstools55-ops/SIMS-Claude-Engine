@@ -1,20 +1,27 @@
-# SIMS-Claude-Engine v1.0.0 AI Exchange MVP
+# SIMS-Claude-Engine v2.0.0 Prototype Baseline
 
-SIMSから渡される改善指示書を受け取り、記事改善結果を `SIMS Improvement Result v1.0` として返すClaude Project用リポジトリです。
+このリポジトリは、運用実績のある `ai-yoshida` プロトタイプをベースラインとして、SIMS AI Exchange v1.0 に接続するための Claude Engine です。
 
 ## Claude Projectへ入れるもの
 
-- `claude/project-instructions/CLAUDE_PROJECT_INSTRUCTIONS_AI_EXCHANGE_MVP.md`
-- `claude/prompts/RUN_AI_EXCHANGE_IMPROVEMENT.md`
+### Project Instructions
+
+`claude/project-instructions/CLAUDE_PROJECT_INSTRUCTIONS_PROTOTYPE_BASELINE.md`
+
+### Project Knowledge
+
+以下をClaude Project Knowledgeへ追加してください。
+
+- `claude/engines/engine00.md` ～ `engine10.md`
+- `claude/knowledge/` 配下の主要Knowledge
+- `claude/knowledge/category/` 配下のカテゴリKnowledge
+- `claude/prompts/RUN_SIMS_AI_EXCHANGE_IMPROVEMENT.md`
 - `claude/templates/SIMS_Improvement_Result_v1.0_TEMPLATE.md`
 
-## 対応仕様
+## 方針
 
-- SIMS AI Exchange Standard v1.0
-- SEO Data Model v1.0
+- 既存プロトタイプの改善力を維持する
+- SIMSから渡される `Improvement_Request` を入力として扱う
+- Claudeは `Improvement_Result` 形式で返す
+- Engineは安定資産、Knowledgeは運用で更新する
 
-## コミットメッセージ
-
-```text
-Implement Claude AI Exchange MVP v1.0
-```

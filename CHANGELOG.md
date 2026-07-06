@@ -1,9 +1,9 @@
 # Changelog
 
-## v1.0.0
+## v2.0.0 Prototype Baseline
 
-- Initial repository foundation.
-- Added Claude Project Instructions.
-- Added AI Exchange templates.
-- Added engine separation policy.
-- Added setup and usage documents.
+- Imported ai-yoshida prototype Engine00-10.
+- Imported category knowledge and SEO knowledge assets.
+- Added SIMS AI Exchange adapter prompt.
+- Added Improvement Result template.
+- Added migration and evaluation notes.

@@ -1,67 +1,62 @@
 # SIMS Improvement Result v1.0
 
-## 1. Result Summary
+## 1. SEO Targets
 
-- Request ID: 
-- URL: 
-- Status: Completed
+- Main Query:
+- Sub Queries:
+- Search Intent:
 
-## 2. SEO Targets
+## 2. Recommended Metadata
 
-- Main Query: 
-- Sub Queries: 
+### H1
 
-## 3. Recommended Metadata
 
-- New H1: 
-- New Title Tag: 
-- Meta Description: 
-- Smartphone Description: 
+### Title Tag
 
-## 4. Article Changes
 
-- Added H2: 
-- Added H3: 
-- Added FAQ: 
-- Internal Links: 
-- External References: 
+### Meta Description
 
-## 5. Beginner Guide
 
-### H1の反映先
+### Smartphone Description
 
-WordPressの投稿タイトル欄に反映します。
 
-### titleタグの反映先
+## 3. Article Improvement
 
-Cocoonの場合は投稿編集画面下部のSEO設定にある「SEOタイトル」へ反映します。
+### 改善方針
 
-### meta descriptionの反映先
 
-Cocoonの場合は投稿編集画面下部のSEO設定にある「メタディスクリプション」へ反映します。
+### 改善済み本文 / 差分
 
-### スマホ向けdescriptionの使い方
 
-meta descriptionの冒頭60文字以内に、この記事の答えと読むメリットが入るようにします。
+### 追加FAQ
 
-## 6. Improvement Summary
 
-- Improvement Summary: 
+### 内部リンク提案
 
-## 7. Reasoning Summary
 
-- Reasoning Summary: 
+## 4. Reasoning Summary
 
-## 8. Reflection Checklist
+- なぜH1を修正したか:
+- なぜtitleタグを修正したか:
+- なぜdescriptionを修正したか:
+- なぜ本文構成を修正したか:
 
-- [ ] H1を反映した
-- [ ] titleタグを反映した
-- [ ] meta descriptionを反映した
-- [ ] FAQを反映した
-- [ ] 内部リンクを反映した
-- [ ] WordPressで保存した
-- [ ] 必要に応じてSearch ConsoleでURL検査した
+## 5. WordPress Reflection Guide
 
-## 9. Next Action
+1. H1を投稿タイトルへ反映
+2. titleタグをSEO設定へ反映
+3. meta descriptionをSEO設定へ反映
+4. 本文を更新
+5. FAQを追加
+6. 内部リンクを確認
+7. 保存・公開
 
-- Next Action: 
+## 6. Completion Checklist
+
+- [ ] H1反映
+- [ ] titleタグ反映
+- [ ] description反映
+- [ ] 本文反映
+- [ ] FAQ反映
+- [ ] 内部リンク反映
+- [ ] Search Consoleで再クロール依頼
