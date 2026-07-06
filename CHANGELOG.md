@@ -1,7 +1,9 @@
 # Changelog
 
-## v2.0.1
+## v2.0.2 - Engine01 Intake Audit
 
-- Added Engine00 audit report.
-- Added refactored Engine00 Platform Policy for AI Exchange v1.0.
-- Added Sprint 1 execution plan.
+- Audited prototype `engine01.md` from the operational ai-yoshida baseline.
+- Confirmed Engine01 should remain Project Intake, not Search Intent.
+- Refactored Engine01 for AI Exchange v1.0 compatibility.
+- Defined required, recommended, optional, and missing-data handling.
+- Added output contract for downstream engines.
