@@ -2,6 +2,6 @@
 
 ## v2.0.0
 
-- Added Claude-side SEO Data Model v2.0 interface.
-- Added expected input and output sections.
-- Added metadata and beginner explanation requirements.
+- AI Exchange Contract v2.0対応を追加
+- Claude Engineの受信・返却仕様を整理
+- Improvement Result v2テンプレートを追加

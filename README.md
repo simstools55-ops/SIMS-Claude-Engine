@@ -1,5 +1,13 @@
-# SIMS Claude Engine SEO Data Model v2.0 Interface
+# SIMS-Claude-Engine AI Exchange Contract v2.0 Interface
 
-This package updates SIMS-Claude-Engine to understand SEO Data Model v2.0.
+Claude Engine v2 が SIMS AI Exchange Contract v2.0 に対応するためのインターフェース定義です。
 
-Apply this package to the SIMS-Claude-Engine repository.
+## 収録内容
+
+- `docs/ai-exchange/CLAUDE_ENGINE_CONTRACT_v2.0.md`
+- `claude/templates/IMPROVEMENT_RESULT_v2_TEMPLATE.md`
+- `claude/templates/REQUEST_INTAKE_CHECKLIST_v2.md`
+
+## 適用先
+
+`SIMS-Claude-Engine` リポジトリへ上書き投入します。
