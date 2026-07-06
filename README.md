@@ -1,24 +1,24 @@
-# SIMS Claude Engine v2.0.5 - Engine04 SEO Quality Audit
+# SIMS Claude Engine v2.0.6
 
-This package advances Claude Engine v2 development from Engine03 Search Intent Analysis to Engine04 SEO Quality Audit.
+## Engine05 Content Rewrite Audit / AI Exchange Refactor
 
-Engine04 is preserved from the operational prototype as the **SEO Quality Audit Engine**. Its responsibility is to audit whether the current improvement direction is safe, coherent, and SEO-quality-ready before rewrite or patch creation begins. It must not rewrite the article, create titles, create metadata, add FAQ, or generate publishing output.
+This package adds the audit and refactoring plan for Engine05: Content Rewrite.
 
-## What changed
+Engine05 is responsible for converting the intent, query, quality, and metadata decisions from earlier engines into practical article rewrite instructions and final improved content.
 
-- Preserved the proven prototype principle: Engine04 is an audit engine, not a rewrite engine.
-- Updated input to receive `Improvement_Request.md`, Engine01 intake output, Engine02 Search Console analysis, and Engine03 Search Intent analysis.
-- Added AI Exchange v1.0 compatibility.
-- Standardized audit gates: intent match, H1/title alignment, heading structure, content completeness, EEAT, readability, internal-link opportunity, and beginner usability.
-- Added explicit `go / revise / stop` decision for downstream Engine05.
-- Added beginner-friendly audit explanation requirements.
+## Scope
 
-## Repository target
+- Review prototype rewrite behavior
+- Define rewrite inputs from AI Exchange Request
+- Define rewrite outputs for Improvement Result
+- Separate rewrite policy from publishing policy
+- Preserve successful prototype rewrite principles
+- Add beginner-friendly explanation requirements
 
-Upload this package into the `SIMS-Claude-Engine` repository.
+## Repository
 
-Recommended commit message:
+Apply this package to `SIMS-Claude-Engine`.
 
-```text
-Add Engine04 SEO Quality audit and AI Exchange refactor
-```
+## Commit message
+
+`Add Engine05 content rewrite audit and AI Exchange refactor`
